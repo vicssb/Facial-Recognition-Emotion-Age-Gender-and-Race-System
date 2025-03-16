@@ -1,6 +1,6 @@
 # Criação do readme.md inicial
 
-- crie um readme.md com base em: https://web.dio.me/lab/calculo-de-metricas-de-avaliacao-de-aprendizado/learning/8c981faa-c9db-4a02-bad0-87035e170684
+- crie um readme.md com base em: https://web.dio.me/lab/criando-um-sistema-de-reconhecimento-facial-do-zero/learning/952b22f6-2904-4958-bad6-5ad2f889a1d6?back=/track/formacao-machine-learning-specialist
 
 
 - Acrestar: Descrição do Desafio
