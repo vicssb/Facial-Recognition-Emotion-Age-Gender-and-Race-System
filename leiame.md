@@ -8,6 +8,7 @@
 
 <img src="./img/dio.png" alt="DIO Logo" width="200"/>
 <img src="./img/artificial-intelligence.png" alt="Artificial Intelligence Logo" width="200"/>
+<img src="./img/deepface.png" alt="Deepface Logo" width="200"/>
 
 # Sistema de Reconhecimento Facial, Emoção, Idade, Gênero e Raça
 
