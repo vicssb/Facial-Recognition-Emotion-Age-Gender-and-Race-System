@@ -9,7 +9,7 @@
 <img src="./img/dio.png" alt="DIO Logo" width="200"/>
 <img src="./img/artificial-intelligence.png" alt="Artificial Intelligence Logo" width="200"/>
 
-# Sistema de Reconhecimento Facial
+# Sistema de Reconhecimento Facial, Emoção, Idade, Gênero e Raça
 
 Este projeto é baseado no [laboratório da DIO](https://web.dio.me/lab/criando-um-sistema-de-reconhecimento-facial-do-zero/learning/952b22f6-2904-4958-bad6-5ad2f889a1d6).
 
@@ -19,12 +19,12 @@ O reconhecimento facial é uma tecnologia amplamente utilizada em diversas área
 
 ## Descrição do Desafio
 
-Neste projeto, vamos construir um sistema de reconhecimento facial que seja capaz de identificar e verificar indivíduos em imagens ou vídeos. O sistema será desenvolvido utilizando bibliotecas populares de Python e abordará as seguintes etapas:
+Neste projeto, vamos construir um sistema de reconhecimento facial que seja capaz de identificar e verificar indivíduos em imagens ou vídeos, além de realizar a análise de **emoções**, **idade**, **gênero** e **raça**. O sistema será desenvolvido utilizando bibliotecas populares de Python e abordará as seguintes etapas:
 
 1. **Pré-processamento de Imagens**: Detecção e alinhamento facial.
-2. **Extração de Características**: Utilização de redes neurais para gerar embeddings faciais.
-3. **Classificação**: Comparação de embeddings para identificação ou verificação.
-4. **Avaliação**: Medição da precisão e desempenho do sistema.
+2. **Extração de Características**: Utilização de redes neurais para gerar embeddings faciais e atributos adicionais (emoção, idade, gênero e raça).
+3. **Classificação**: Comparação de embeddings para identificação ou verificação, e predição de atributos adicionais.
+4. **Avaliação**: Medição da precisão e desempenho do sistema em todas as tarefas.
 
 ## Requisitos
 

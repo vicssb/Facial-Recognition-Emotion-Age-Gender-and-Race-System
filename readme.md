@@ -9,7 +9,7 @@
 <img src="./img/dio.png" alt="DIO Logo" width="200"/>
 <img src="./img/artificial-intelligence.png" alt="Artificial Intelligence Logo" width="200"/>
 
-# Facial Recognition System
+# Facial Recognition, Emotion, Age, Gender and Race System
 
 This project is based on the [DIO lab](https://web.dio.me/lab/criando-um-sistema-de-reconhecimento-facial-do-scratch/learning/952b22f6-2904-4958-bad6-5ad2f889a1d6).
 
@@ -19,15 +19,14 @@ Facial recognition is a technology widely used in several areas, such as securit
 
 ## Challenge Description
 
-In this project, we will build a facial recognition system that is capable of identifying and verifying individuals in images or videos. The system will be developed using popular Python libraries and will cover the following steps:
+## Challenge Description
 
-1. **Image Preprocessing**: Face detection and alignment.
+In this project, we will build a facial recognition system that is capable of identifying and verifying individuals in images or videos, as well as performing **emotion**, **age**, **gender**, and **race** analysis. The system will be developed using popular Python libraries and will cover the following steps:
 
-2. **Feature Extraction**: Using neural networks to generate face embeddings.
-
-3. **Classification**: Comparing embeddings for identification or verification.
-
-4. **Evaluation**: Measuring the accuracy and performance of the system.
+1. **Image Preprocessing**: Facial detection and alignment.
+2. **Feature Extraction**: Using neural networks to generate facial embeddings and additional attributes (emotion, age, gender, and race).
+3. **Classification**: Comparing embeddings for identification or verification, and predicting additional attributes.
+4. **Evaluation**: Measuring the accuracy and performance of the system across all tasks.
 
 ## Requirements
 
